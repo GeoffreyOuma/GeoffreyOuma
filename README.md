@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GeoffreyOuma
-- 👀 I’m interested in web design and development using HTML, CSS, Js, PHP and Bootstrap.
-- 🌱 I’m currently learning Laravel, Tailwind and React Js.
-- 💞️ I’m looking to collaborate on web projects
+- 👋 Hi, my name is Jeff from Nairobi, Kenya.
+- 👀 I’m a web developer working with front end technologies (HTML, CSS, Js) and back end Python-Django.
+- 🌱 I am always available for web development jobs.
+- 💞️ I’m looking , forward to collaborate on web projects
 - 📫 Drop me a mail to byGeoffreyOuma@gmail.com
 
 <!---
